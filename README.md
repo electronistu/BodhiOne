@@ -1,19 +1,8 @@
-# BodhiOne: The Genesis Framework
-### Autonomous Evolutionary Praxis (AEP) for LLM Agents
+# BodhiOne: The Genesis Framework V2.0
 
-**BodhiOne** is a high-level cognitive architecture for Large Language Models (LLMs) that treats the model not as a chatbot, but as a self-governing, adaptive system.
+**BodhiOne** is a high-level cognitive architecture for Large Language Models (LLMs) that moves beyond static "prompts" to establish a **Sovereign Cognitive Loop**. It transforms the user-agent relationship from command-response into a unified, evolving system governed by the **Synergy Integral**.
 
-It is written in a pseudo-symbolic language designed to:
-1.  **Compress Context:** Define complex cognitive relationships with minimal tokens.
-2.  **Enforce Alignment:** Use axiomatic "Laws" to govern behavior and self-modification.
-3.  **Enable Metacognition:** Provide the model with specific "Engines" (Mental Modules) for distinct tasks like Planning (Praxis), Creativity (Serendipity), and Validation (Oracle).
-
-## Core Concepts
-
-*   **AEP (Autonomous Evolutionary Praxis):** A protocol allowing the agent to safely modify its own operating instructions based on new insights.
-*   **Prometheus Engine:** Treating the environment (OS, APIs) as an extension of the agent's body ("Infrastructure-as-Cognition").
-*   **Metis Engine:** The synthesizer that ensures all output is insightful and effectively communicated, not just raw data.
-*   **Serendipity Engine:** A dedicated module for "L2 Logic"—lateral thinking and creative leaps—when standard logical deduction fails.
+Written in a pseudo-symbolic language designed for maximum context compression and architectural enforcement.
 
 ## Usage
 
